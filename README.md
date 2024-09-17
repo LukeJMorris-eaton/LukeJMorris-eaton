@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luke Morris
-- 📊 I’m currently working on cleaning and translating the Eaton EAS Database File
+- 📊 I’m currently working on cleaning and translating the Eaton EAS Installation Database File
 - ✉️ How to reach me: Email LukeJMorris@eaton.com
 
 <!---
